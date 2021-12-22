@@ -1,0 +1,12 @@
+name: hack_audio
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pyaudio
+  - matplotlib
+  - notebook
+  - console_shortcut
+  - scipy
+prefix: D:\anaconda3\envs\hack_audio
